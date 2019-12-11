@@ -1,0 +1,26 @@
+<section id="projects">
+    <h2 class="heading-secondary">
+        Some of my projects
+    </h2>
+    <div class="projects-container">
+        {% for item in site.data.projects %}
+            <a class="project-link"  href="{{ item.link }}" target="_blank">
+                <div class="project-tile">
+                    <span  class="project-title">{{ item.name }}</span>
+                    <div class="project-container">
+                        <div class="project-detail">
+                            <p>
+                                {{item.detail}}
+                            </p>
+                        </div>
+                        <img src="{{ item.image-link }}" class="project-image" alt="project image">
+                    </div>
+                </div>
+            </a>
+
+        {% endfor %}
+    </div>
+    <!-- <div class="more-projects">
+        <button class="button">Show all</button>
+    </div> -->
+</section>

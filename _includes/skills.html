@@ -1,0 +1,13 @@
+<div class="skills-container">
+        <h2 class="heading-secondary">Skills</h2>
+        <div class="flex">
+            {% for item in site.data.skills %}
+                <div class="skill">
+                    <div class="skill-image">
+                        <img src="{{ item.image-link }}" alt="technology image">
+                    </div>   
+                    <h3 class="skill-title">{{ item.name }}</h3>
+                </div>
+            {% endfor %}
+        </div>
+    </div>

@@ -1,0 +1,24 @@
+- name: HTML
+  image-link: "./assets/images/icons/html-5.svg"
+
+- name: CSS 3
+  image-link: "./assets/images/icons/css-3.svg"
+
+- name: Javascript
+  image-link: "./assets/images/icons/javascript-1.svg"
+
+- name: Git
+  image-link: "./assets/images/icons/git-icon.svg"
+
+- name: React
+  image-link: "./assets/images/icons/react.svg"
+
+- name: Jekyll
+  image-link: "./assets/images/icons/jekyll.svg"
+
+- name: NodeJs
+  image-link: "./assets/images/icons/nodejs-icon.svg"
+
+- name: MongoDB
+  image-link: "./assets/images/icons/mongodb.svg"
+   
