@@ -1,39 +1,39 @@
 - name: Natours
-  link: "https://a-bawer.github.io/natours/"
+  link: "https://ashrafbawer.github.io/natours/"
   image-link: "assets/images/Natour.jpg"
   detail: A travel agency website developed using pure CSS with Sass. Features some advanced CSS 3 animations. 
 
 - name: Trillo
-  link: "https://a-bawer.github.io/trillo/"
+  link: "https://ashrafbawer.github.io/trillo/"
   image-link: "assets/images/Trillo.jpg"
   detail: A Hotel website developed using CSS,Sass and Javascript. Used Flexbox for layout and added some advanced CSS 3 animations. 
 
 
 - name: RGB Color Game
-  link: "https://a-bawer.github.io/rgb-color-game/"
+  link: "https://ashrafbawer.github.io/rgb-color-game/"
   image-link: "assets/images/rgb-color-game.jpg"
   detail: A fun RGB color game. Made by CSS,HTML and of course javascript.  
 
 
 - name: Simple To Do list
-  link: "https://a-bawer.github.io/simple-todo-list/"
+  link: "https://ashrafbawer.github.io/simple-todo-list/"
   image-link: "assets/images/simple-to-do.jpg"
   detail: A simple to do list without any backend, used only JQuery. Best for daily tasks. 
 
 
 - name: Patatab Clone
-  link: "https://a-bawer.github.io/patatab/"
+  link: "https://ashrafbawer.github.io/patatab/"
   image-link: "assets/images/patatap2.jpg"
   detail: A fun Javascript Project. Used HTML 5 Convas for some drawing and paper.js. Make sure to check this one out. &#128513; 
 
 
 - name: YelpCamp
-  link: "https://github.com/A-Bawer/yelpcamp"
+  link: "https://github.com/AshrafBawer/yelpcamp"
   image-link: "assets/images/yelpcamp.jpg"
   detail: YelpCamp is a big project that list all campgrounds that users added. Developed using Node.js(Express), MongoDB and some external packages. Has a local authentication implemented by passport.js, and express-session.  
 
 
 - name: Complex To do list
-  link: "https://github.com/A-Bawer/to-do-list"
+  link: "https://github.com/AshrafBawer/to-do-list"
   image-link: "assets/images/to-do-list.jpg"
   detail: A complex To do list web app that can add multi-level tasks. Used Node.js, MongoDB, AJAX, JQuery, Bootstarp 4, etc. Best for long-term/short-term goals and plans. &#128526; 
