@@ -8,12 +8,14 @@
                 <div class="project-tile">
                     <span  class="project-title">{{ item.name }}</span>
                     <div class="project-container">
-                        <div class="project-detail">
-                            <p>
-                                {{item.detail}}
-                            </p>
+                        <div class="project-image-container">
+                            <div class="project-detail">
+                                <p>
+                                 {{item.detail}}
+                                </p>
+                            </div>
+                            <img style="{{item.style}}" src="{{ item.image-link }}" class="project-image" alt="project image">
                         </div>
-                        <img src="{{ item.image-link }}" class="project-image" alt="project image">
                     </div>
                 </div>
             </a>

@@ -2,38 +2,40 @@
   link: "https://ashrafbawer.github.io/natours/"
   image-link: "assets/images/Natour.jpg"
   detail: A travel agency website developed using pure CSS with Sass. Features some advanced CSS 3 animations. 
+  style: "transform: scale(1.5); margin-left: 2rem; margin-top:2rem"
 
 - name: Trillo
   link: "https://ashrafbawer.github.io/trillo/"
   image-link: "assets/images/Trillo.jpg"
   detail: A Hotel website developed using CSS,Sass and Javascript. Used Flexbox for layout and added some advanced CSS 3 animations. 
-
+  style: "transform: scale(1.3); margin-top: 3rem"
 
 - name: RGB Color Game
   link: "https://ashrafbawer.github.io/rgb-color-game/"
   image-link: "assets/images/rgb-color-game.jpg"
   detail: A fun RGB color game. Made by CSS,HTML and of course javascript.  
-
+  style: "transform: scale(1.5); margin-left: -7rem"
 
 - name: Simple To Do list
   link: "https://ashrafbawer.github.io/simple-todo-list/"
   image-link: "assets/images/simple-to-do.jpg"
   detail: A simple to do list without any backend, used only JQuery. Best for daily tasks. 
-
+  style: "transform: scale(2); margin: 9rem 0 0 -6rem"
 
 - name: Patatab Clone
   link: "https://ashrafbawer.github.io/patatab/"
   image-link: "assets/images/patatap2.jpg"
   detail: A fun Javascript Project. Used HTML 5 Convas for some drawing and paper.js. Make sure to check this one out. &#128513; 
-
+  style: "transform: scale(1.5); margin-left: 2rem"
 
 - name: YelpCamp
   link: "https://github.com/AshrafBawer/yelpcamp"
   image-link: "assets/images/yelpcamp.jpg"
   detail: YelpCamp is a big project that list all campgrounds that users added. Developed using Node.js(Express), MongoDB and some external packages. Has a local authentication implemented by passport.js, and express-session.  
-
+  style: "transform: scale(1.2); margin-left: -5rem; margin-top: 2rem"
 
 - name: Complex To do list
   link: "https://github.com/AshrafBawer/to-do-list"
   image-link: "assets/images/to-do-list.jpg"
   detail: A complex To do list web app that can add multi-level tasks. Used Node.js, MongoDB, AJAX, JQuery, Bootstarp 4, etc. Best for long-term/short-term goals and plans. &#128526; 
+  style: "transform: scale(1.5); margin-left: 11rem"

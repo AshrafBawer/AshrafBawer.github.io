@@ -120,9 +120,10 @@ section#about .heading-secondary {
     width: 15rem;
     height: 15rem;
     background: url(../images/profile.jpg);
-    background-size: cover;
+    background-size: 85%;
     background-position: center;
     border-radius: 50%;
+    box-shadow: 0 0 .8rem rgba(0,0,0,0.2);
 }
 
 .about {
@@ -197,11 +198,12 @@ section#projects {
     height: 30rem;
     width: 30rem;
     background: #eeeeee;
-    margin-bottom: 2rem;
+    overflow:hidden;
 }
 
 .project-container {
     position: relative;
+    
 }
 
 .plus {
@@ -210,8 +212,14 @@ section#projects {
 
 .project-image {
     box-sizing: content-box;
-    width:100%;
+    width:auto;
+    background-image: center;
     height: 24rem;
+
+}
+
+.project-image-container {
+    overflow:hidden;
 }
 
 .project-title {
@@ -241,9 +249,13 @@ section#projects {
     width:100%;
     text-align: center;
 
-
+    overflow:hidden;
     opacity: 0;
     transition: all .2s;
+}
+
+.project-link {
+    margin-bottom: 2rem;
 }
 
 .project-link:hover .project-title {
@@ -317,6 +329,8 @@ footer h2 {
 .group label {
     font-size: 1.8rem;
     width: 10rem;
+    text-align:right;
+    margin-right:2rem;
 }
 
 .submit-button {
@@ -324,15 +338,15 @@ footer h2 {
 }
 
 .group input{
-    padding: 1rem;
-    font-size: 1.8rem;
+    padding: 1rem !important;
+    font-size: 1.3rem !important;
     font-family: inherit;
     flex-grow: 1;
 }
 
 #message {
     padding: 1rem;
-    font-size: 1.8rem;
+    font-size: 1.4rem;
     font-family: inherit;
     flex-grow: 1;
     resize: none;
